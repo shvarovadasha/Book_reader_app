@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Укажите пути для хранения файлов -->
+    <external-path
+        name="external_files"
+        path="." /> <!-- Это разрешит доступ ко всем файлам на внешнем хранилище -->
+</paths>
